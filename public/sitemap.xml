@@ -1,204 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>https://codak-agency.online/</loc>
-    <lastmod>2026-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://codak-agency.online/en/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/en/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/ar/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/ar/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/fr/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/fr/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/es/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/es/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/de/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/de/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/en/quote/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/en/quote/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/quote/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/quote/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/quote/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/quote/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/quote/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/quote/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/quote/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/quote/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/quote/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/quote/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/quote/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/quote/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/quote/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/ar/quote/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/ar/quote/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/quote/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/quote/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/quote/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/quote/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/quote/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/quote/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/quote/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/quote/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/quote/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/quote/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/quote/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/quote/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/quote/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/fr/quote/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/fr/quote/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/quote/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/quote/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/quote/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/quote/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/quote/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/quote/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/quote/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/quote/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/quote/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/quote/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/quote/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/quote/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/quote/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/es/quote/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/es/quote/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/quote/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/quote/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/quote/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/quote/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/quote/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/quote/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/quote/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/quote/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/quote/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/quote/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/quote/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/quote/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/quote/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/de/quote/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/de/quote/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/quote/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/quote/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/quote/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/quote/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/quote/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/quote/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/quote/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/quote/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/quote/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/quote/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/quote/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/quote/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/quote/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/en/contact/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/en/contact/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/contact/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/contact/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/contact/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/contact/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/contact/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/contact/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/contact/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/ar/contact/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/ar/contact/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/contact/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/contact/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/contact/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/contact/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/contact/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/contact/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/contact/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/fr/contact/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/fr/contact/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/contact/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/contact/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/contact/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/contact/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/contact/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/contact/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/contact/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/es/contact/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/es/contact/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/contact/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/contact/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/contact/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/contact/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/contact/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/contact/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/contact/"/>
   </url>
   <url>
-    <loc>https://codak-agency.online/de/contact/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.codak.agency/de/contact/</loc>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://codak-agency.online/en/contact/"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://codak-agency.online/ar/contact/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://codak-agency.online/fr/contact/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://codak-agency.online/es/contact/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://codak-agency.online/de/contact/"/>
-    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://codak-agency.online/ar/contact/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://codak-agency.online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.codak.agency/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.codak.agency/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.codak.agency/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.codak.agency/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.codak.agency/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ar-EG" href="https://www.codak.agency/ar/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.codak.agency/en/contact/"/>
   </url>
 </urlset>

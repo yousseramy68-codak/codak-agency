@@ -6,4 +6,4 @@ Disallow: /*?utm_
 Disallow: /admin
 Disallow: /login
 
-Sitemap: https://codak-agency.online/sitemap.xml
+Sitemap: https://www.codak.agency/sitemap.xml
