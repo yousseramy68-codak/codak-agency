@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
   const langCodes = ['en','ar','fr','es','de'];
   const langNames = {en:'English',ar:'العربية',fr:'Français',es:'Español',de:'Deutsch'};
   const messages = {
@@ -107,6 +107,7 @@
     if (restore) menuButton?.focus(); else previousFocus?.focus?.();
   };
   menuButton?.addEventListener('click', () => {
+    closeLanguageMenu();
     if (!panel) return;
     if (panel.classList.contains('open')) return closeDrawer();
     previousFocus = document.activeElement;
