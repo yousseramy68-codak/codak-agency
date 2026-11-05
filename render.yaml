@@ -1,0 +1,16 @@
+﻿services:
+  - type: web
+    name: codak-agency
+    runtime: node
+    rootDir: .
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: ADMIN_CHAT_ID
+        sync: false
+      - key: ALLOWED_ORIGIN
+        value: https://codak-agency.online
+      - key: PORT
+        value: 10000

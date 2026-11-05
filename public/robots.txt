@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block common tracking/service paths from being crawled
+Disallow: /*?utm_
+Disallow: /admin
+Disallow: /login
+
+Sitemap: https://codak-agency.online/sitemap.xml
