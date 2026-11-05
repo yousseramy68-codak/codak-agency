@@ -101,7 +101,7 @@
   let previousFocus = null;
   const closeDrawer = (restore = true) => {
     if (!panel?.classList.contains('open')) return;
-    panel.classList.remove('open'); scrim?.classList.remove('open');
+    panel.classList.remove('open'); scrim?.classList.remove('open'); document.body.classList.remove('menu-open');
     panel.setAttribute('aria-hidden','true'); panel.setAttribute('inert','');
     menuButton?.setAttribute('aria-expanded','false'); document.body.style.overflow='';
     if (restore) menuButton?.focus(); else previousFocus?.focus?.();
@@ -111,7 +111,7 @@
     if (!panel) return;
     if (panel.classList.contains('open')) return closeDrawer();
     previousFocus = document.activeElement;
-    panel.classList.add('open'); scrim?.classList.add('open');
+    panel.classList.add('open'); scrim?.classList.add('open'); document.body.classList.add('menu-open');
     panel.removeAttribute('inert'); panel.setAttribute('aria-hidden','false');
     menuButton.setAttribute('aria-expanded','true'); document.body.style.overflow='hidden';
     panel.querySelector('a,button')?.focus();
