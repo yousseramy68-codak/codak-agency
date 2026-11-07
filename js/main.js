@@ -24,7 +24,7 @@
     const button = form.querySelector('button[type="submit"],button:not([type])');
     let status = form.querySelector('.form-status');
     if (!status) { status = document.createElement('p'); status.className = 'form-status'; button.before(status); }
-    const validPhone = !isQuote && !phone ? true : /^\+?[\d\s()().-]{8,24}$/.test(phone);
+    const validPhone = !phone || /^\+?[\d\s()().-]{8,24}$/.test(phone);
     if (!form.checkValidity() || name.length < 2 || !validPhone || (isQuote && (!value('project_type') || !value('budget')))) {
       status.className = 'form-status error';
       status.setAttribute('role', 'alert');

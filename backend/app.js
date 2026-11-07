@@ -1,4 +1,4 @@
-﻿import dotenv from 'dotenv';
+import dotenv from 'dotenv';
 import express from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
@@ -27,7 +27,7 @@ app.post('/api/order',orderLimit,async(req,res)=>{
     const email=clean(req.body?.email,254);
     const details=clean(req.body?.message,1000);
     const general=service==='General inquiry';
-    const validPhone=general&&phone==='Not provided'||/^[+\d][\d\s().-]{7,23}$/.test(phone);
+    const validPhone=phone==='Not provided'||/^[+\d][\d\s().-]{7,23}$/.test(phone);
     if(name.length<2||!validPhone||service.length<2||budget.length<2||email&&!/^\S+@\S+\.\S+$/.test(email))return res.status(400).json({success:false,error:'Please check the submitted fields.'});
     if(!process.env.BOT_TOKEN||!process.env.ADMIN_CHAT_ID)return res.status(503).json({success:false,error:'Service unavailable.'});
     const timestamp=new Intl.DateTimeFormat('ar-EG',{timeZone:'Africa/Cairo',dateStyle:'medium',timeStyle:'short'}).format(new Date());
