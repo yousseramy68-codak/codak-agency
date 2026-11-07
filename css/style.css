@@ -82,3 +82,13 @@
 }
 
 img.testimonial-avatar{display:block;object-fit:cover;padding:0;border:1px solid var(--line);flex:none}.testimonial-card blockquote{font-size:15px;line-height:1.85}.testimonial-person strong[dir=ltr]{unicode-bidi:isolate}
+/* Home page: keep the first screenful focused and expand secondary cards inline. */
+.card-expander{grid-column:1/-1;width:100%;margin-top:4px}
+.card-expander>summary{display:flex;align-items:center;justify-content:center;gap:10px;width:max-content;max-width:100%;min-height:44px;margin:4px auto 0;padding:0 18px;border:1px solid var(--line);border-radius:999px;color:var(--ink);background:var(--paper);font-size:13px;font-weight:650;cursor:pointer;transition:border-color .2s,color .2s,background .2s}
+.card-expander>summary:hover,.card-expander>summary:focus-visible{border-color:var(--accent);color:var(--accent);outline:none}
+.card-expander>summary::-webkit-details-marker{display:none}
+.card-expander[open]>summary{margin-bottom:20px}
+.team-more-grid,.testimonial-more-grid{width:100%;margin:0!important}
+.team-more-grid>.reveal{min-width:0}
+.testimonial-more-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media(max-width:800px){.testimonial-more-grid{grid-template-columns:1fr}}
