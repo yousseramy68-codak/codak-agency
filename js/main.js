@@ -174,18 +174,20 @@
   document.querySelectorAll('a[href*="/quote/"]').forEach(link => link.addEventListener('click',() => sessionStorage.setItem('codak-focus-form','1')));
 
   const backdrop = document.querySelector('.hero-backdrop');
-  if (backdrop && !matchMedia('(prefers-reduced-motion: reduce)').matches && !navigator.connection?.saveData && !/2g|3g/.test(navigator.connection?.effectiveType || '')) {
-    const startFrames = () => {
-      if (backdrop.querySelector('.hero-sprite')) return;
-      const sprite = document.createElement('img');
-      sprite.className = 'hero-sprite'; sprite.src = '/videos/hero-sprite.webp'; sprite.alt = ''; sprite.setAttribute('aria-hidden', 'true');
-      backdrop.prepend(sprite);
-      let frame = 0, last = 0;
-      const animate = now => {
-        if (now - last >= 125) { sprite.style.transform = `translate(${-frame % 8 * 12.5}%, ${-Math.floor(frame / 8) * 12.5}%)`; frame = (frame + 1) % 64; last = now; }
-        requestAnimationFrame(animate);
+  const viewport = matchMedia('(max-width: 899px)');
+  if (backdrop) {
+    const connection = navigator.connection;
+    const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const constrained = connection?.saveData || /2g|3g/.test(connection?.effectiveType || '');
+    if (!reduced && !constrained) {
+      const startVideo = () => {
+        if (backdrop.querySelector('video')) return;
+        const video = document.createElement('video');
+        video.className = 'hero-video'; video.autoplay = true; video.loop = true; video.muted = true;
+        video.playsInline = true; video.preload = 'none'; video.setAttribute('aria-hidden', 'true');
+        const syncSource = () => { video.src = viewport.matches ? '/videos/hero-bg-mobile.mp4' : '/videos/hero-bg.mp4'; };
+        syncSource(); viewport.addEventListener('change', syncSource); backdrop.prepend(video); video.play().catch(() => {});
       };
-      sprite.addEventListener('load', () => requestAnimationFrame(animate), { once: true });
-    };
-    if ('requestIdleCallback' in window) window.requestIdleCallback(startFrames, { timeout: 1500 }); else setTimeout(startFrames, 800);
+      if ('requestIdleCallback' in window) window.requestIdleCallback(startVideo, { timeout: 1500 }); else window.setTimeout(startVideo, 800);
+    }
   }})();
