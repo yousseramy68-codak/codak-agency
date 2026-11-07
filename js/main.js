@@ -12,7 +12,7 @@
   const t = messages[lang] || messages.en;
   const quoteForm = form => Boolean(form.querySelector('[name="project_type"]'));
 
-  // Contact and project forms use the same secure order endpoint.
+  // Contact messages go to Formspree; project quotes stay on the order API.
   document.querySelectorAll('form.contact-form').forEach(form => form.addEventListener('submit', async event => {
     event.preventDefault();
     if (form.dataset.submitting === 'true') return;
@@ -47,9 +47,11 @@
         message: value('message'),
         website: value('website')
       };
-      const response = await fetch('/api/order', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
+      const response = isQuote
+        ? await fetch('/api/order', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)})
+        : await fetch(form.action || 'https://formspree.io/f/xyewobvb', {method:'POST',body:data,headers:{Accept:'application/json'}});
       const result = await response.json().catch(() => null);
-      if (!response.ok || result?.success !== true) throw new Error('request failed');
+      if (!response.ok || (isQuote && result?.success !== true)) throw new Error('request failed');
       status.className = 'form-status success';
       status.setAttribute('role', 'status');
       status.textContent = isQuote ? t.success : t.contactSuccess;
