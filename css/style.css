@@ -45,3 +45,18 @@
 }
 @media(max-width:980px){.header-inner{height:66px;padding-inline:clamp(16px,4vw,26px);display:flex;gap:10px}.site-header .wordmark{font-size:24px}.header-actions{gap:7px}.quote-link{display:none}.mobile-menu{width:42px;height:42px;border-radius:12px!important}.main-nav{display:none}}
 @media(max-width:420px){.header-inner{padding-inline:12px;gap:6px}.site-header .wordmark{font-size:22px}.header-actions{gap:4px}.theme-switch-pill{--switch-w:48px;--switch-h:27px;--knob-size:20px}}
+
+/* Cohesive team card grid */
+.home-team-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:24px!important;padding:0!important;align-items:stretch}
+.home-team-grid>.reveal{min-width:0;height:100%}
+.home-team-grid .team-card{height:100%;padding:16px;border-radius:18px;border-color:color-mix(in srgb,var(--line) 82%,transparent);background:var(--paper);box-shadow:0 12px 34px rgba(20,14,10,.08);transition:transform .25s ease,border-color .25s ease,box-shadow .25s ease}
+.home-team-grid .team-card:hover{transform:translateY(-5px);border-color:color-mix(in srgb,var(--accent) 55%,var(--line));box-shadow:0 20px 42px rgba(20,14,10,.13)}
+.home-team-grid .team-card>img{height:clamp(200px,22vw,280px);border-radius:12px;object-fit:cover;object-position:center 32%;filter:none}
+.home-team-grid .team-info{padding:0 6px;align-items:center}
+.home-team-grid .team-info h3{margin:16px 0 5px;font-size:20px;font-weight:650;letter-spacing:0}
+.home-team-grid .team-role{padding:5px 10px;border-radius:999px;background:color-mix(in srgb,var(--accent) 10%,var(--paper));font-size:11px;font-weight:650;letter-spacing:0;text-transform:none}
+.home-team-grid .team-info p{min-height:0;margin:12px 0 5px;font-size:13px;line-height:1.75;text-align:center}
+@media(max-width:900px){.home-team-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:18px!important}.home-team-grid .team-card>img{height:clamp(190px,35vw,250px)}}
+@media(max-width:560px){.home-team-grid{grid-template-columns:1fr!important;gap:14px!important}.home-team-grid .team-card{padding:13px;border-radius:15px}.home-team-grid .team-card>img{height:clamp(210px,60vw,300px)}}
+/* Rebalanced desktop navigation, with compact language and CTA controls */
+@media(min-width:981px){.header-inner{grid-template-columns:minmax(150px,1fr) auto minmax(280px,1fr);padding-inline:clamp(22px,3.5vw,52px);gap:22px}.site-header .wordmark{font-size:28px}.main-nav{gap:4px;padding:5px;border-radius:15px;background:color-mix(in srgb,var(--wash) 92%,transparent)}.nav-link{min-height:44px;padding-inline:18px;border-radius:11px;font-size:13px;font-weight:600}.nav-link.active{background:var(--paper);color:var(--accent);box-shadow:0 2px 8px rgba(0,0,0,.08)}.header-actions{gap:8px}.quote-link{height:44px;border-radius:12px;padding-inline:17px;font-weight:650}}
