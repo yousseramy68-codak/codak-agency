@@ -80,3 +80,5 @@
 .mobile-panel nav .mobile-link:hover,.mobile-panel nav .mobile-link.active{color:var(--accent);background:transparent!important}
 .mobile-panel .mobile-quote{border-radius:999px!important}
 }
+
+img.testimonial-avatar{display:block;object-fit:cover;padding:0;border:1px solid var(--line);flex:none}.testimonial-card blockquote{font-size:15px;line-height:1.85}.testimonial-person strong[dir=ltr]{unicode-bidi:isolate}
