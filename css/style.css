@@ -92,3 +92,13 @@ img.testimonial-avatar{display:block;object-fit:cover;padding:0;border:1px solid
 .team-more-grid>.reveal{min-width:0}
 .testimonial-more-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
 @media(max-width:800px){.testimonial-more-grid{grid-template-columns:1fr}}
+/* Home services: center the headline and the three service cards. */
+.home-page #services>.section-heading{display:flex;flex-direction:column;align-items:center;gap:12px;text-align:center}
+.home-page #services>.section-heading>div{text-align:center}
+.home-page #services>.section-heading>p{max-width:560px;margin:0 auto;text-align:center}
+.home-page #services .service-grid{grid-template-columns:repeat(3,minmax(0,1fr));max-width:1050px;margin-inline:auto}
+.home-page #services .service-grid>.reveal{min-width:0}
+/* Keep the fourth home project centered on wide screens and use balanced rows on laptops. */
+@media(min-width:1200px){.home-page #work .project-grid{grid-template-columns:repeat(3,minmax(0,1fr));max-width:1260px;margin-inline:auto}.home-page #work .project-grid>.reveal:last-child:nth-child(3n+1){grid-column:2}}
+@media(min-width:701px) and (max-width:1199px){.home-page #work .project-grid{grid-template-columns:repeat(2,minmax(0,1fr));max-width:920px;margin-inline:auto}}
+@media(max-width:700px){.home-page #services .service-grid{grid-template-columns:1fr;max-width:520px}.home-page #work .project-grid{grid-template-columns:1fr}}
